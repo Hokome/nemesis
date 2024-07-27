@@ -1,0 +1,12 @@
+{
+    "name": "nemesis",
+    "title": "Nemesis: PVP overhaul",
+    "author": "Hokome",
+    "description": "Vanilla PVP is too long and has many balance issues. This mod fixes it by making everything much simpler (only 3 science packs) and more interesting in the context of PVP. It is still playable in freeplay but it is not intended to be played that way.",
+    "contact": "Discord: hokome",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "factorio_version": "1.1",
+    "version": "0.1.0"
+}

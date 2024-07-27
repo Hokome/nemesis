@@ -1,0 +1,6 @@
+.vscode/
+*.kra?
+*.blend?
+
+.vscode/
+.obsidian/

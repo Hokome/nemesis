@@ -1,0 +1,1 @@
+The nemesis mod is a Facotrio PVP overhaul mod that completely reworks the recipe chains, industry, tech tree and weaponry to fit PVP and make the game much shorter.
